@@ -1,0 +1,1 @@
+This is a vagrant project that guides students of ALX on how to download and set up virtual machines using Virtualbox and vagrant. It entails using the command line to login to the virtual machine.This machine is non other than the famous Ubuntu 20.04.
